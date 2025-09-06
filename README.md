@@ -4,7 +4,8 @@ XLPower: Your Career Development Platform
 XLPower is a comprehensive, all-in-one web application designed to empower Computer Science students in their career preparation journey. Founded by Seelam Hemanth, a 4th-year CSE student at Vignan University, the platform aims to bridge the gap between academic knowledge and industry readiness by providing key tools for self-assessment, skill development, and interview preparation.
 
 This project showcases a wide range of modern front-end development skills, including dynamic UI/UX design, client-side data management, and the use of popular web libraries for rich, interactive features.
-
+![Image description](<img width="490" height="490" alt="xlpower_qr" src="https://github.com/user-attachments/assets/a2b064b5-7c6d-4001-8fa5-ea878cc7688e" />
+)
 Key Features
 Personalized Dashboard: A central hub to access all application features, displaying a personalized welcome message for the user.
 
